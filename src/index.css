@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0
+}
+body {
+  font-family: 'Segoe UI', sans-serif;
+  padding-top: 100px;
+  height: 100vh;;
+  background-color: #000; /* or your preferred background */
+  color: #fff; /* default text color */
+}
+
