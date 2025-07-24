@@ -1,4 +1,5 @@
 import project1_img from '../assets/project_1.png'
+import project1_img from '../assets/project_1.jpg'
 import project2_img from '../assets/project_2.png'
 import project3_img from '../assets/project_3.png'
 import project4_img from '../assets/project_4.jpg'
