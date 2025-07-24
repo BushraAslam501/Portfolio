@@ -1,10 +1,10 @@
-import project1_img from '../assets/project_1.png'
-import project1_img from '../assets/project_1.jpg'
-import project2_img from '../assets/project_2.png'
-import project3_img from '../assets/project_3.png'
-import project4_img from '../assets/project_4.jpg'
-import project5_img from '../assets/project_5.jpg'
-import project6_img from '../assets/project_6.jpg'
+import project1_img from './pro.jpg';
+import project2_img from './project_2.png';
+import project3_img from './project_3.png';
+import project4_img from './project_4.jpg';
+import project5_img from './project_5.jpg';
+import project6_img from './project_6.jpg';
+
 
 const mywork_data = [
     {
