@@ -10,23 +10,3 @@ body {
   color: #fff; /* default text color */
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-}
-@media (max-width: 768px) {
-  img {
-    max-width: 90%;
-  }
-}
-
-@media (max-width: 480px) {
-  img {
-    max-width: 100%;
-  }
-}
-img {
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-}
