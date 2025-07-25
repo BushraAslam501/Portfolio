@@ -10,3 +10,48 @@ body {
   color: #fff; /* default text color */
 }
 
+@media (max-width: 1024px) {
+  .about-section {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero h1,
+  .hero p,
+  .about-title h1,
+  .about-achievement h1 {
+    font-size: 1.5rem;
+  }
+
+  .mywork-container {
+    grid-template-columns: 1fr;
+  }
+
+  .navbar-menu {
+    width: 100%;
+  }
+}
+@media (max-width: 768px) {
+  .services-container {
+    grid-template-columns: 1fr;
+  }
+
+  .footer-top,
+  .footer-bottom {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .contact-section {
+    flex-direction: column;
+  }
+
+  .contact-left h1 {
+    font-size: 2rem;
+  }
+
+  .contact-left p {
+    font-size: 1rem;
+  }
+}
