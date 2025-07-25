@@ -5,7 +5,7 @@ import project4_img from './project_4.jpg';
 import project5_img from './project_5.jpg';
 import project6_img from './project_6.jpg';
 
-
+*//all images here//*
 const mywork_data = [
     {
         w_no:1,
